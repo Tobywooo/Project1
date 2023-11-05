@@ -1,0 +1,560 @@
+,Type,Title,Country,Release Year,Rating,Seasons,Genres,Vote Average
+0,SHOW,Tom and Jerry,['US'],1940,Unknown,16.0,"['animation', 'comedy', 'family', 'action']",10.0
+59,SHOW,Crashbox,"['CA', 'US']",1999,TV-Y7,2.0,"['animation', 'family']",10.0
+155,SHOW,Category 7: The End of the World,['RU'],2005,TV-PG,1.0,"['drama', 'scifi', 'comedy', 'thriller', 'action', 'fantasy']",10.0
+162,SHOW,Classical Baby,['US'],2005,TV-Y,1.0,[],10.0
+273,SHOW,Dios Inc.,['MX'],2016,Unknown,1.0,['thriller'],10.0
+323,SHOW,Talk Show the Game Show,['US'],2017,TV-14,2.0,[],10.0
+60,SHOW,Autopsy,['US'],1994,TV-MA,2.0,['documentation'],10.0
+604,SHOW,The Retro Plant Shop with Mikey and Jo,['US'],2022,Unknown,1.0,['reality'],10.0
+603,SHOW,Restoration Road With Clint Harp,['US'],2021,Unknown,3.0,[],10.0
+601,SHOW,Batman: The Audio Adventures,['US'],2021,TV-14,1.0,"['comedy', 'fantasy', 'action']",9.5
+412,SHOW,The World Between Us,['TW'],2019,Unknown,1.0,"['drama', 'crime']",9.022
+575,SHOW,Beach Cottage Chronicles,['US'],2022,Unknown,1.0,['reality'],9.0
+1,SHOW,Looney Tunes,[],1929,Unknown,17.0,"['comedy', 'family', 'thriller', 'animation']",9.0
+617,SHOW,The Last of Us,['US'],2023,TV-MA,1.0,"['drama', 'action', 'horror', 'scifi', 'thriller']",8.798
+202,SHOW,Rick and Morty,['US'],2013,TV-MA,6.0,"['animation', 'scifi', 'action', 'comedy']",8.729
+382,SHOW,Frayed,"['AU', 'GB']",2019,TV-MA,2.0,"['comedy', 'drama']",8.727
+573,SHOW,Trinity of Shadows,['TW'],2021,Unknown,1.0,['thriller'],8.7
+109,SHOW,Regular Show,['US'],2010,TV-PG,8.0,"['comedy', 'animation', 'action', 'family', 'fantasy', 'scifi']",8.691
+254,SHOW,Conan Without Borders,[],2015,TV-MA,1.0,[],8.667
+344,SHOW,Primal,['US'],2019,TV-14,2.0,"['animation', 'drama', 'action', 'fantasy', 'horror']",8.66
+365,SHOW,Selena + Chef,['US'],2020,TV-PG,4.0,['reality'],8.643
+377,SHOW,Dr. Stone,['JP'],2019,TV-14,3.0,"['action', 'fantasy', 'animation', 'comedy', 'scifi', 'drama']",8.64
+465,SHOW,Tokyo Revengers,['JP'],2021,TV-14,2.0,"['crime', 'scifi', 'animation', 'action', 'drama', 'thriller']",8.603
+20,SHOW,The Sopranos,['US'],1999,TV-MA,6.0,"['drama', 'crime']",8.603
+320,SHOW,Axios,['US'],2018,TV-14,4.0,['documentation'],8.6
+141,SHOW,Xavier: Renegade Angel,['US'],2007,TV-MA,2.0,"['animation', 'comedy']",8.6
+333,SHOW,Chernobyl,['US'],2019,TV-MA,1.0,"['drama', 'thriller', 'history']",8.6
+427,SHOW,Noblesse,['JP'],2020,TV-MA,1.0,"['scifi', 'comedy', 'animation', 'action', 'fantasy']",8.575
+176,SHOW,The Amazing World of Gumball,['US'],2011,TV-Y7,6.0,"['animation', 'scifi', 'comedy', 'family', 'fantasy', 'romance']",8.544
+210,SHOW,Over the Garden Wall,['US'],2014,TV-PG,1.0,"['scifi', 'comedy', 'fantasy', 'horror', 'thriller', 'action', 'animation', 'drama', 'family']",8.504
+67,SHOW,The Wire,['US'],2002,TV-MA,5.0,"['drama', 'crime', 'thriller']",8.501
+301,SHOW,Arthur's Law,['DE'],2018,Unknown,2.0,['comedy'],8.5
+15,SHOW,Eyes on the Prize,['US'],1987,TV-PG,2.0,"['documentation', 'history']",8.5
+448,SHOW,House of the Dragon,['US'],2022,TV-MA,2.0,"['scifi', 'drama', 'action', 'fantasy', 'romance']",8.5
+306,SHOW,Wyatt Cenac's Problem Areas,['US'],2018,TV-MA,2.0,"['comedy', 'documentation']",8.5
+24,SHOW,Batman: The Animated Series,['US'],1992,TV-Y7-FV,4.0,"['family', 'scifi', 'animation', 'action', 'crime', 'drama']",8.489
+213,SHOW,Steven Universe,['US'],2013,TV-PG,6.0,"['comedy', 'action', 'scifi', 'animation', 'drama', 'fantasy', 'thriller', 'family']",8.468
+110,SHOW,Young Justice,['US'],2010,TV-14,4.0,"['scifi', 'action', 'fantasy', 'romance', 'drama', 'animation', 'crime']",8.461
+587,SHOW,Tsukimichi -Moonlit Fantasy-,['JP'],2021,TV-14,1.0,"['animation', 'scifi', 'action', 'comedy']",8.461
+19,SHOW,Friends,['US'],1994,TV-14,10.0,"['comedy', 'drama', 'romance']",8.456
+96,SHOW,Samurai Jack,['US'],2001,TV-14,5.0,"['action', 'scifi', 'animation', 'drama', 'fantasy', 'thriller']",8.454
+70,SHOW,Band of Brothers,['US'],2001,TV-MA,1.0,"['drama', 'war', 'history', 'action']",8.454
+80,SHOW,Adventure Time,['US'],2010,TV-PG,10.0,"['animation', 'comedy', 'scifi', 'family', 'fantasy', 'action']",8.453
+335,SHOW,Harley Quinn,['US'],2019,TV-MA,4.0,"['scifi', 'action', 'animation', 'comedy', 'crime', 'fantasy']",8.437
+223,SHOW,Shadows,['RO'],2014,TV-MA,3.0,"['drama', 'thriller', 'crime', 'european']",8.424
+418,SHOW,Veneno,['ES'],2020,TV-MA,1.0,['drama'],8.412
+252,SHOW,"Be Cool, Scooby-Doo!",['US'],2015,TV-Y7,2.0,"['animation', 'thriller', 'family', 'comedy']",8.406
+169,SHOW,Game of Thrones,['US'],2011,TV-MA,8.0,"['scifi', 'drama', 'action', 'romance', 'fantasy']",8.4
+556,SHOW,Batwheels,['US'],2022,TV-Y7,2.0,"['comedy', 'family', 'fantasy', 'scifi', 'animation', 'action']",8.4
+298,SHOW,Craig of the Creek,['US'],2018,Unknown,4.0,"['action', 'animation', 'comedy', 'drama', 'family']",8.4
+292,SHOW,Joe Pera Talks With You,['US'],2018,TV-14,3.0,['comedy'],8.4
+74,SHOW,The Mentalist,['US'],2008,TV-14,7.0,"['drama', 'crime', 'thriller']",8.393
+285,SHOW,My Brilliant Friend,"['US', 'IT']",2018,TV-MA,3.0,"['drama', 'romance', 'family', 'european']",8.388
+336,SHOW,Euphoria,['US'],2019,TV-MA,2.0,"['crime', 'drama']",8.386
+85,SHOW,Gossip Girl,['US'],2007,TV-14,6.0,"['drama', 'thriller', 'romance']",8.346
+75,SHOW,The Vampire Diaries,['US'],2009,TV-14,8.0,"['drama', 'scifi', 'thriller', 'fantasy', 'horror', 'romance']",8.344
+453,SHOW,Peacemaker,['US'],2022,TV-MA,1.0,"['action', 'scifi', 'comedy', 'crime', 'fantasy', 'family']",8.343
+18,SHOW,South Park,['US'],1997,TV-MA,26.0,"['comedy', 'animation']",8.34
+388,SHOW,Prodigal Son,['US'],2019,TV-14,2.0,"['drama', 'crime', 'thriller']",8.319
+156,SHOW,Ben 10: Alien Force,['US'],2008,TV-Y7,3.0,"['scifi', 'action', 'animation', 'comedy', 'drama', 'family']",8.318
+413,SHOW,Joint Venture,['BR'],2019,TV-MA,2.0,"['drama', 'crime', 'comedy']",8.308
+53,SHOW,From the Earth to the Moon,['US'],1998,TV-PG,1.0,"['action', 'drama', 'history', 'thriller']",8.3
+347,SHOW,South Side,['US'],2019,TV-MA,3.0,['comedy'],8.3
+41,SHOW,Living Single,['US'],1993,TV-14,5.0,['comedy'],8.3
+103,SHOW,Teen Titans,['US'],2003,TV-Y7,5.0,"['action', 'animation', 'comedy', 'family', 'fantasy', 'scifi', 'thriller']",8.3
+106,SHOW,Justice League Unlimited,['US'],2004,TV-Y7,3.0,"['action', 'animation', 'family', 'fantasy', 'scifi']",8.296
+21,SHOW,The West Wing,['US'],1999,TV-14,7.0,['drama'],8.292
+203,SHOW,True Detective,['US'],2014,TV-MA,4.0,"['drama', 'crime', 'thriller']",8.289
+404,SHOW,Katy Keene,['US'],2020,TV-14,1.0,"['comedy', 'drama']",8.287
+78,SHOW,Rome,['US'],2005,TV-MA,2.0,"['action', 'drama', 'romance', 'war', 'history', 'european']",8.28
+151,SHOW,Chowder,['US'],2007,TV-Y7,4.0,"['animation', 'comedy', 'family', 'fantasy']",8.279
+452,SHOW,Mare of Easttown,['US'],2021,TV-MA,1.0,"['crime', 'drama']",8.268
+490,SHOW,"The Way Down: God, Greed, and the Cult of Gwen Shamblin",['US'],2021,TV-MA,2.0,['documentation'],8.25
+154,SHOW,Capadocia,['MX'],2008,TV-MA,3.0,['drama'],8.244
+513,SHOW,To Your Eternity,['JP'],2021,TV-MA,2.0,"['action', 'animation', 'drama', 'fantasy']",8.244
+93,SHOW,Scooby-Doo! Mystery Incorporated,['US'],2010,TV-PG,4.0,"['animation', 'horror', 'drama', 'thriller', 'comedy', 'crime', 'action', 'family', 'fantasy']",8.218
+362,SHOW,Tacoma FD,['US'],2019,TV-14,3.0,['comedy'],8.216
+124,SHOW,Codename: Kids Next Door,['US'],2002,TV-Y7,6.0,"['animation', 'action', 'comedy', 'family', 'scifi']",8.204
+189,SHOW,Ben 10: Omniverse,['US'],2012,TV-Y7,8.0,"['action', 'scifi', 'family', 'animation', 'comedy']",8.202
+313,SHOW,The Shop: Uninterrupted,['US'],2018,TV-PG,5.0,"['comedy', 'documentation']",8.2
+343,SHOW,Bob Hearts Abishola,['US'],2019,TV-PG,5.0,"['romance', 'comedy']",8.2
+250,SHOW,Nuclear Family,['US'],2016,TV-MA,1.0,['documentation'],8.2
+439,SHOW,Property Brothers: Forever Home,['US'],2019,TV-G,7.0,['reality'],8.2
+591,SHOW,Las Bravas F.C.,['MX'],2022,TV-MA,1.0,"['comedy', 'action', 'sport']",8.2
+153,SHOW,Ben 10: Ultimate Alien,['US'],2010,TV-Y7,3.0,"['scifi', 'family', 'animation', 'action']",8.2
+280,SHOW,Succession,['US'],2018,TV-MA,4.0,"['drama', 'reality']",8.2
+524,SHOW,Painting With John,['US'],2021,TV-MA,2.0,"['documentation', 'comedy', 'reality']",8.2
+219,SHOW,Mr. Pickles,['US'],2014,TV-MA,4.0,"['animation', 'comedy', 'horror']",8.2
+373,SHOW,How To with John Wilson,['US'],2020,TV-MA,2.0,"['documentation', 'comedy']",8.2
+437,SHOW,Steven Universe Future,['US'],2019,TV-PG,1.0,"['fantasy', 'scifi', 'comedy', 'drama', 'family', 'action', 'animation']",8.181
+32,SHOW,Courage the Cowardly Dog,['US'],1999,TV-Y7,4.0,"['scifi', 'comedy', 'horror', 'animation', 'family', 'fantasy']",8.169
+36,SHOW,Batman Beyond,['US'],1999,TV-Y7,3.0,"['action', 'scifi', 'thriller', 'animation', 'crime', 'drama']",8.164
+52,SHOW,"Harvey Birdman, Attorney at Law",['US'],2000,TV-14,4.0,"['action', 'crime', 'scifi', 'animation', 'comedy']",8.158
+132,SHOW,Ben 10,['US'],2005,TV-Y7,4.0,"['comedy', 'scifi', 'action', 'family', 'animation']",8.144
+171,SHOW,The Newsroom,['US'],2012,TV-MA,3.0,['drama'],8.131
+403,SHOW,Valley of Tears,['IL'],2020,Unknown,1.0,['war'],8.13
+208,SHOW,Silicon Valley,['US'],2014,TV-MA,6.0,['comedy'],8.129
+68,SHOW,Fringe,['US'],2008,TV-14,5.0,"['scifi', 'drama', 'thriller']",8.107
+35,SHOW,Space Ghost Coast to Coast,['US'],1994,TV-PG,12.0,"['comedy', 'animation', 'scifi', 'family']",8.106
+464,SHOW,Superman & Lois,['US'],2021,TV-14,3.0,"['scifi', 'action', 'drama', 'romance']",8.103
+27,SHOW,The Nanny,['US'],1993,TV-PG,6.0,"['comedy', 'family', 'romance']",8.1
+279,SHOW,Young Sheldon,['US'],2017,TV-PG,6.0,['comedy'],8.1
+271,SHOW,Impractical Jokers: Inside Jokes,['US'],2016,TV-14,1.0,"['reality', 'comedy']",8.1
+76,SHOW,Deadwood,['US'],2004,TV-MA,3.0,"['western', 'drama', 'crime', 'history']",8.1
+227,SHOW,Sr. Ávila,['MX'],2013,TV-MA,4.0,"['action', 'crime', 'drama', 'thriller']",8.1
+82,SHOW,Six Feet Under,['US'],2001,TV-MA,5.0,"['drama', 'comedy']",8.1
+209,SHOW,Nathan For You,['US'],2013,TV-14,4.0,"['documentation', 'comedy']",8.1
+107,SHOW,Justice League,['US'],2001,TV-PG,2.0,"['action', 'scifi', 'thriller', 'family', 'fantasy', 'animation', 'romance', 'drama']",8.094
+22,SHOW,Curb Your Enthusiasm,['US'],2000,TV-MA,11.0,['comedy'],8.09
+214,SHOW,Gomorrah,['IT'],2014,TV-MA,5.0,"['drama', 'thriller', 'crime', 'european']",8.09
+143,SHOW,The Marvelous Misadventures of Flapjack,['US'],2008,TV-Y7,3.0,"['scifi', 'comedy', 'horror', 'animation', 'family', 'fantasy']",8.086
+456,SHOW,The Rehearsal,['US'],2022,TV-MA,1.0,"['comedy', 'documentation']",8.076
+538,SHOW,The Crime of the Century,['US'],2021,TV-MA,1.0,"['crime', 'documentation']",8.067
+30,SHOW,Oz,['US'],1997,TV-MA,6.0,"['drama', 'crime', 'thriller', 'scifi', 'animation']",8.063
+54,SHOW,Static Shock,['US'],2000,TV-Y7,4.0,"['animation', 'action', 'family', 'scifi', 'crime', 'drama']",8.058
+97,SHOW,The Boondocks,['US'],2005,TV-MA,4.0,"['animation', 'action', 'comedy', 'drama']",8.058
+130,SHOW,The Grim Adventures of Billy and Mandy,['US'],2001,TV-Y7,7.0,"['comedy', 'animation', 'horror', 'family', 'fantasy']",8.053
+409,SHOW,We Are Who We Are,['US'],2020,TV-MA,1.0,['drama'],8.043
+332,SHOW,Ghosts,['GB'],2019,TV-14,4.0,"['comedy', 'scifi', 'fantasy']",8.03
+284,SHOW,Titans,['US'],2018,TV-MA,4.0,"['action', 'scifi', 'drama', 'fantasy', 'crime']",8.028
+95,SHOW,Carnivàle,['US'],2003,TV-MA,2.0,"['scifi', 'thriller', 'drama', 'fantasy']",8.026
+90,SHOW,Pretty Little Liars,['US'],2010,TV-14,7.0,"['drama', 'thriller', 'romance']",8.024
+240,SHOW,The Jinx: The Life and Deaths of Robert Durst,['US'],2015,TV-MA,1.0,"['documentation', 'crime']",8.021
+358,SHOW,Smiling Friends,['US'],2020,TV-MA,1.0,"['animation', 'comedy']",8.02
+127,SHOW,Treme,['US'],2010,TV-MA,4.0,"['drama', 'music']",8.011
+346,SHOW,Pennyworth: The Origin of Batman's Butler,['US'],2019,TV-MA,3.0,"['drama', 'action', 'crime']",8.004
+160,SHOW,The Alzheimer's Project,['US'],2009,TV-PG,1.0,['documentation'],8.0
+165,SHOW,Kindergarten,['US'],2001,Unknown,1.0,"['documentation', 'animation', 'reality']",8.0
+168,SHOW,Sons of Carnaval,['BR'],2006,Unknown,2.0,['drama'],8.0
+73,SHOW,Boardwalk Empire,['US'],2010,TV-MA,5.0,"['drama', 'history', 'crime']",8.0
+564,SHOW,On the Job,['PH'],2021,Unknown,1.0,"['action', 'drama']",8.0
+356,SHOW,Gentleman Jack,['US'],2019,TV-MA,2.0,"['drama', 'history', 'romance']",8.0
+576,SHOW,Fixer Upper: Welcome Home,['US'],2021,TV-G,1.0,['reality'],8.0
+269,SHOW,Long Live the Royals,['US'],2015,TV-PG,1.0,"['animation', 'comedy', 'family']",8.0
+468,SHOW,Winning Time: The Rise of the Lakers Dynasty,['US'],2022,TV-MA,2.0,"['comedy', 'drama', 'sport']",8.0
+326,SHOW,Impractical Jokers: After Party,['US'],2017,TV-14,4.0,"['reality', 'comedy']",8.0
+299,SHOW,On the Spectrum,['IL'],2018,TV-MA,1.0,"['comedy', 'drama']",8.0
+177,SHOW,The Looney Tunes Show,['US'],2011,TV-PG,2.0,"['animation', 'family', 'comedy']",8.0
+262,SHOW,Magnifica 70,['BR'],2015,Unknown,3.0,['drama'],8.0
+116,SHOW,Moral Orel,['US'],2005,TV-MA,4.0,"['comedy', 'drama', 'animation']",8.0
+322,SHOW,Hot Streets,['US'],2018,TV-MA,2.0,"['comedy', 'animation', 'horror', 'scifi', 'action', 'crime']",8.0
+12,SHOW,The Fresh Prince of Bel-Air,['US'],1990,TV-PG,6.0,"['comedy', 'drama']",8.0
+426,SHOW,Miss S,['CN'],2020,Unknown,1.0,['drama'],8.0
+88,SHOW,Chappelle's Show,['US'],2003,TV-14,3.0,"['comedy', 'music']",8.0
+334,SHOW,His Dark Materials,['GB'],2019,TV-14,3.0,"['scifi', 'drama', 'family', 'fantasy']",7.993
+416,SHOW,Scooby-Doo and Guess Who?,['US'],2019,TV-PG,3.0,"['comedy', 'thriller', 'animation', 'crime', 'family', 'fantasy']",7.992
+521,SHOW,Pretty Little Liars: Original Sin,['US'],2022,TV-MA,1.0,"['drama', 'romance', 'thriller']",7.991
+392,SHOW,Adventure Time: Distant Lands,['US'],2020,TV-PG,1.0,"['action', 'family', 'fantasy', 'animation', 'comedy', 'thriller', 'scifi']",7.978
+470,SHOW,It's a Sin,['GB'],2021,TV-MA,1.0,"['comedy', 'drama', 'history', 'thriller', 'horror']",7.977
+111,SHOW,Generation Kill,['US'],2008,TV-MA,1.0,"['war', 'drama', 'action']",7.969
+359,SHOW,Warrior,['US'],2019,TV-MA,2.0,"['action', 'crime', 'drama', 'history']",7.961
+206,SHOW,Banshee,['US'],2013,TV-MA,4.0,"['drama', 'thriller', 'action', 'crime']",7.953
+376,SHOW,Nancy Drew,['US'],2019,TV-14,4.0,"['drama', 'scifi', 'horror', 'fantasy']",7.946
+459,SHOW,Tokyo Vice,['US'],2022,TV-MA,1.0,"['drama', 'thriller', 'crime']",7.942
+94,SHOW,Rizzoli & Isles,['US'],2010,TV-14,7.0,"['drama', 'crime']",7.932
+239,SHOW,The Night Of,['US'],2016,TV-MA,1.0,"['thriller', 'drama', 'crime']",7.925
+204,SHOW,Last Week Tonight with John Oliver,['US'],2014,TV-MA,10.0,"['comedy', 'reality', 'history']",7.924
+211,SHOW,The Knick,['US'],2014,TV-MA,2.0,"['drama', 'history']",7.923
+179,SHOW,Off the Air,['US'],2011,TV-MA,12.0,"['scifi', 'animation', 'comedy', 'horror', 'music']",7.917
+81,SHOW,Pushing Daisies,['US'],2007,TV-PG,2.0,"['scifi', 'comedy', 'drama', 'romance', 'fantasy']",7.91
+39,SHOW,Spawn,['US'],1997,TV-MA,3.0,"['action', 'animation', 'drama', 'crime', 'scifi', 'thriller', 'horror', 'fantasy', 'romance']",7.9
+282,SHOW,Big Little Lies,['US'],2017,TV-MA,2.0,"['drama', 'crime']",7.9
+235,SHOW,Hank Zipzer,['GB'],2014,Unknown,3.0,"['comedy', 'family', 'european']",7.9
+89,SHOW,The Closer,['US'],2005,TV-MA,7.0,"['crime', 'drama']",7.9
+579,SHOW,Rap Battlefield,['AR'],2021,Unknown,1.0,"['drama', 'music']",7.9
+34,SHOW,Step by Step,['US'],1991,TV-G,7.0,"['comedy', 'drama', 'family', 'romance', 'sport', 'reality', 'horror']",7.9
+430,SHOW,Who Killed Garrett Phillips?,['US'],2019,TV-MA,1.0,"['crime', 'documentation']",7.9
+42,SHOW,"Ed, Edd n Eddy","['CA', 'US']",1999,TV-Y7,6.0,"['animation', 'family', 'comedy']",7.9
+122,SHOW,The Life & Times of Tim,['US'],2008,TV-MA,3.0,"['comedy', 'animation']",7.9
+126,SHOW,Watchmen: Motion Comic,['US'],2008,TV-14,1.0,"['scifi', 'action', 'animation', 'drama']",7.9
+458,SHOW,The Gilded Age,['US'],2022,TV-MA,1.0,['drama'],7.9
+134,SHOW,Check It Out! with Dr. Steve Brule,['US'],2010,TV-14,4.0,['comedy'],7.9
+38,SHOW,Martin,['US'],1992,TV-14,6.0,"['comedy', 'drama', 'romance', 'family']",7.887
+137,SHOW,Foster's Home for Imaginary Friends,['US'],2004,TV-Y7,6.0,"['scifi', 'animation', 'comedy', 'family', 'fantasy']",7.887
+129,SHOW,"What's New, Scooby-Doo?",['US'],2002,TV-Y7,3.0,"['animation', 'action', 'thriller', 'comedy', 'family']",7.885
+233,SHOW,El Negocio (The Business),['BR'],2013,TV-MA,4.0,"['drama', 'comedy']",7.877
+66,SHOW,The Big Bang Theory,['US'],2007,TV-14,12.0,"['comedy', 'romance']",7.874
+466,SHOW,The Cleaning Lady,['US'],2022,TV-14,2.0,"['crime', 'drama', 'thriller']",7.873
+170,SHOW,Impractical Jokers,['US'],2011,TV-14,10.0,"['comedy', 'reality']",7.865
+25,SHOW,ER,['US'],1994,TV-14,15.0,"['drama', 'documentation', 'romance']",7.859
+455,SHOW,Our Flag Means Death,['US'],2022,TV-MA,2.0,"['action', 'drama', 'comedy', 'history', 'romance']",7.858
+99,SHOW,Flight of the Conchords,['US'],2007,TV-MA,2.0,"['comedy', 'music']",7.849
+108,SHOW,The Batman,['US'],2004,TV-Y7,5.0,"['scifi', 'action', 'thriller', 'animation', 'fantasy', 'family', 'crime', 'drama']",7.848
+281,SHOW,Barry,['US'],2018,TV-MA,3.0,"['comedy', 'drama', 'crime', 'action']",7.845
+2,SHOW,"Scooby-Doo, Where Are You!",['US'],1969,TV-G,3.0,"['comedy', 'family', 'animation', 'crime']",7.839
+91,SHOW,One Tree Hill,['US'],2003,TV-14,9.0,"['drama', 'romance', 'sport']",7.827
+352,SHOW,DC's Stargirl,['US'],2020,TV-14,3.0,"['scifi', 'action', 'drama', 'crime', 'fantasy']",7.823
+92,SHOW,The O.C.,['US'],2003,TV-14,4.0,"['drama', 'comedy', 'romance']",7.817
+105,SHOW,John Adams,['US'],2008,TV-14,1.0,"['drama', 'history']",7.806
+31,SHOW,The Larry Sanders Show,['US'],1992,TV-MA,6.0,['comedy'],7.8
+510,SHOW,Exterminate All the Brutes,['US'],2021,TV-MA,1.0,"['documentation', 'drama', 'history']",7.8
+98,SHOW,Cold Case,['US'],2003,TV-14,7.0,"['drama', 'crime', 'thriller']",7.8
+196,SHOW,When Shall We Kiss?,['HU'],2011,Unknown,2.0,"['drama', 'romance', 'comedy']",7.8
+190,SHOW,Green Lantern: The Animated Series,['US'],2011,TV-PG,1.0,"['action', 'scifi', 'animation', 'family']",7.797
+131,SHOW,In Treatment,['US'],2008,TV-MA,4.0,['drama'],7.781
+357,SHOW,The Other Two,['US'],2019,TV-MA,2.0,['comedy'],7.773
+23,SHOW,Whose Line Is It Anyway?,['US'],1998,TV-14,15.0,['comedy'],7.772
+467,SHOW,Kung Fu,['US'],2021,TV-14,3.0,"['action', 'drama']",7.747
+83,SHOW,The Venture Bros.,['US'],2004,TV-MA,7.0,"['action', 'comedy', 'animation', 'fantasy', 'scifi']",7.747
+283,SHOW,Sharp Objects,['US'],2018,TV-MA,1.0,"['drama', 'crime', 'thriller']",7.743
+345,SHOW,Watchmen,['US'],2019,TV-MA,1.0,"['scifi', 'crime', 'drama', 'action']",7.736
+6,SHOW,Super Friends,['US'],1973,TV-Y7,9.0,"['scifi', 'family', 'animation', 'action']",7.731
+72,SHOW,Chuck,['US'],2007,TV-14,5.0,"['comedy', 'drama', 'action']",7.727
+247,SHOW,The Young Pope,"['ES', 'US', 'FR', 'IT', 'GB']",2016,TV-MA,1.0,"['drama', 'european']",7.727
+84,SHOW,The Pacific,['US'],2010,TV-MA,1.0,"['action', 'war', 'drama', 'history']",7.723
+372,SHOW,All Rise,['US'],2019,TV-MA,3.0,"['drama', 'family']",7.715
+621,SHOW,Poor Devil,['ES'],2023,TV-MA,1.0,"['comedy', 'animation']",7.714
+115,SHOW,Metalocalypse,['US'],2006,TV-MA,5.0,"['animation', 'comedy', 'music']",7.7
+248,SHOW,Adam Ruins Everything,['US'],2015,TV-14,3.0,"['comedy', 'history', 'documentation', 'animation']",7.7
+55,SHOW,Sealab 2021,['US'],2000,TV-14,5.0,"['animation', 'scifi', 'comedy']",7.7
+188,SHOW,Black Dynamite,['US'],2012,TV-MA,2.0,"['comedy', 'action', 'crime', 'drama', 'animation']",7.7
+312,SHOW,The Zen Diaries of Garry Shandling,['US'],2018,TV-MA,1.0,['documentation'],7.7
+363,SHOW,Looney Tunes Cartoons,['US'],2020,TV-PG,5.0,"['family', 'animation', 'comedy', 'thriller', 'action']",7.7
+220,SHOW,Fixer Upper,['US'],2013,TV-G,5.0,['reality'],7.7
+255,SHOW,We Bare Bears,['US'],2015,TV-Y7,4.0,"['comedy', 'family', 'fantasy', 'animation']",7.7
+496,SHOW,Shaq,['US'],2022,TV-14,1.0,"['documentation', 'sport']",7.7
+484,SHOW,The Forgotten Valley,['BR'],2022,TV-MA,1.0,"['drama', 'thriller']",7.7
+33,SHOW,Mr. Show with Bob and David,['US'],1995,TV-MA,4.0,['comedy'],7.7
+446,SHOW,Abbott Elementary,['US'],2021,TV-PG,3.0,['comedy'],7.7
+463,SHOW,Julia,['US'],2022,Unknown,1.0,['drama'],7.7
+381,SHOW,A Black Lady Sketch Show,['US'],2019,TV-MA,3.0,['comedy'],7.696
+125,SHOW,Angels in America,['US'],2003,TV-MA,1.0,"['drama', 'scifi', 'fantasy', 'romance']",7.696
+294,SHOW,Elvis Presley: The Searcher,['US'],2018,TV-PG,1.0,['documentation'],7.667
+290,SHOW,The Deuce,['US'],2017,TV-MA,3.0,['drama'],7.665
+288,SHOW,The Alienist,['US'],2018,TV-MA,2.0,"['drama', 'crime']",7.665
+51,SHOW,Superman: The Animated Series,['US'],1996,TV-PG,4.0,"['scifi', 'action', 'animation', 'drama', 'family']",7.641
+314,SHOW,Blinded by the Lights,['PL'],2018,Unknown,1.0,"['drama', 'crime', 'european']",7.64
+44,SHOW,Dexter's Laboratory,['US'],1996,TV-G,4.0,"['comedy', 'scifi', 'animation', 'family', 'fantasy']",7.639
+205,SHOW,The Leftovers,['US'],2014,TV-MA,3.0,"['scifi', 'drama', 'fantasy', 'thriller']",7.639
+243,SHOW,Insecure,['US'],2016,TV-MA,5.0,"['drama', 'comedy', 'romance']",7.639
+339,SHOW,Doom Patrol,['US'],2019,TV-MA,4.0,"['scifi', 'action', 'comedy', 'drama']",7.638
+383,SHOW,Atlanta's Missing and Murdered: The Lost Children,['US'],2020,TV-MA,1.0,"['documentation', 'crime']",7.636
+77,SHOW,True Blood,['US'],2008,TV-MA,7.0,"['scifi', 'drama', 'fantasy', 'horror', 'romance', 'thriller']",7.63
+100,SHOW,Robot Chicken,['US'],2005,TV-MA,11.0,"['comedy', 'drama', 'thriller', 'animation', 'scifi', 'action']",7.625
+231,SHOW,Clarence,['US'],2014,TV-PG,3.0,"['comedy', 'family', 'animation']",7.622
+212,SHOW,Gotham,['US'],2014,TV-14,5.0,"['scifi', 'crime', 'drama', 'thriller', 'action']",7.606
+113,SHOW,Degrassi,['CA'],2001,TV-14,14.0,"['drama', 'romance']",7.601
+394,SHOW,I Know This Much Is True,['US'],2020,TV-MA,1.0,['drama'],7.6
+505,SHOW,That Damn Michael Che,['US'],2021,TV-MA,2.0,['comedy'],7.6
+400,SHOW,The Dog House,['GB'],2019,TV-Y7,4.0,['reality'],7.6
+402,SHOW,The New Pope,"['FR', 'IT', 'GB', 'ES', 'US']",2020,TV-MA,1.0,['drama'],7.6
+361,SHOW,I May Destroy You,"['GB', 'US']",2020,TV-MA,1.0,['drama'],7.6
+355,SHOW,Years and Years,['GB'],2019,TV-MA,1.0,"['war', 'scifi', 'drama']",7.6
+399,SHOW,Murder on Middle Beach,['US'],2020,TV-MA,1.0,"['thriller', 'documentation', 'crime']",7.6
+432,SHOW,What's My Name | Muhammad Ali,['US'],2019,TV-14,1.0,['documentation'],7.6
+11,SHOW,Full House,['US'],1987,TV-G,8.0,"['comedy', 'drama', 'family']",7.592
+472,SHOW,Gossip Girl,['US'],2021,TV-MA,2.0,"['drama', 'romance']",7.573
+477,SHOW,And Just Like That...,['US'],2021,TV-MA,2.0,"['comedy', 'drama', 'romance']",7.571
+140,SHOW,Superjail!,['US'],2008,TV-MA,4.0,"['action', 'comedy', 'animation', 'crime', 'fantasy']",7.568
+215,SHOW,Olive Kitteridge,['US'],2014,TV-14,1.0,['drama'],7.563
+447,SHOW,The White Lotus,['US'],2021,TV-MA,2.0,"['crime', 'drama', 'comedy']",7.561
+87,SHOW,The Middle,['US'],2009,TV-PG,9.0,"['comedy', 'family']",7.556
+457,SHOW,The Sex Lives of College Girls,['US'],2021,TV-MA,2.0,"['comedy', 'drama']",7.554
+133,SHOW,Batman: The Brave and the Bold,['US'],2008,TV-Y7,3.0,"['action', 'fantasy', 'scifi', 'animation', 'crime', 'family']",7.545
+350,SHOW,The Undoing,['US'],2020,TV-MA,1.0,"['drama', 'thriller', 'crime']",7.544
+417,SHOW,Our Boys,"['IL', 'US']",2019,TV-MA,1.0,['drama'],7.54
+43,SHOW,The Powerpuff Girls,['US'],1998,TV-Y7,7.0,"['animation', 'action', 'family', 'fantasy', 'scifi', 'comedy']",7.539
+146,SHOW,Men of a Certain Age,['US'],2009,TV-MA,2.0,"['comedy', 'drama']",7.525
+29,SHOW,Dawson's Creek,['US'],1998,TV-PG,6.0,"['drama', 'romance']",7.5
+253,SHOW,Chewing Gum,['GB'],2015,TV-MA,2.0,"['comedy', 'european']",7.5
+303,SHOW,The Shivering Truth,['US'],2018,TV-MA,2.0,"['comedy', 'animation', 'fantasy', 'horror', 'scifi']",7.5
+187,SHOW,Witness,['US'],2012,TV-MA,1.0,"['documentation', 'crime']",7.5
+307,SHOW,Crashing,['US'],2017,TV-MA,3.0,"['comedy', 'drama']",7.5
+40,SHOW,Real Sports with Bryant Gumbel,['US'],1995,TV-PG,29.0,['sport'],7.5
+199,SHOW,George Harrison: Living in the Material World,['US'],2011,Unknown,1.0,['documentation'],7.5
+353,SHOW,The Head,"['ES', 'JP']",2020,TV-14,2.0,['drama'],7.495
+9,SHOW,Scooby-Doo and Scrappy-Doo,['US'],1979,TV-G,6.0,"['comedy', 'animation', 'thriller', 'crime', 'family']",7.483
+123,SHOW,The Comeback,['US'],2005,TV-MA,2.0,"['comedy', 'drama']",7.472
+230,SHOW,Beware the Batman,['US'],2013,TV-PG,1.0,"['action', 'scifi', 'animation', 'crime', 'drama']",7.451
+379,SHOW,Awkwafina Is Nora from Queens,['US'],2020,TV-MA,3.0,['comedy'],7.435
+528,SHOW,Harry Potter: Hogwarts Tournament of Houses,['US'],2021,TV-PG,1.0,"['reality', 'action']",7.423
+583,SHOW,The Republic of Sarah,['US'],2021,TV-14,1.0,['drama'],7.417
+451,SHOW,Hacks,['US'],2021,TV-MA,2.0,"['drama', 'comedy']",7.407
+460,SHOW,We Own This City,['US'],2022,TV-MA,1.0,"['crime', 'drama']",7.4
+139,SHOW,Frisky Dingo,['US'],2006,TV-MA,2.0,"['animation', 'comedy', 'scifi']",7.4
+58,SHOW,The Brak Show,"['US', 'CA']",2000,TV-PG,3.0,"['comedy', 'animation', 'scifi']",7.4
+378,SHOW,Three Busy Debras,['US'],2020,TV-MA,2.0,['comedy'],7.4
+225,SHOW,Tim and Eric's Bedtime Stories,['US'],2014,TV-14,2.0,"['comedy', 'horror']",7.4
+398,SHOW,I'll Be Gone in the Dark,['US'],2020,TV-MA,1.0,"['documentation', 'crime']",7.4
+571,SHOW,"PCC, Secret Power",['BR'],2022,TV-MA,1.0,"['crime', 'documentation']",7.4
+217,SHOW,The Carbonaro Effect,['US'],2014,TV-14,6.0,['comedy'],7.4
+519,SHOW,A Brutal Pact: The Murder of Daniella Perez,['BR'],2022,TV-MA,1.0,"['documentation', 'crime']",7.4
+26,SHOW,Sex and the City,['US'],1998,TV-MA,6.0,"['comedy', 'drama', 'romance']",7.4
+142,SHOW,12 oz. Mouse,['US'],2005,TV-MA,3.0,"['comedy', 'action', 'fantasy', 'thriller', 'animation']",7.4
+420,SHOW,gen:LOCK,['US'],2019,TV-14,2.0,"['animation', 'action', 'scifi', 'fantasy']",7.4
+120,SHOW,"Tim and Eric Awesome Show, Great Job!",['US'],2007,TV-MA,5.0,"['comedy', 'music']",7.4
+119,SHOW,Without a Trace,['US'],2002,TV-14,7.0,"['action', 'drama', 'crime', 'thriller']",7.4
+569,SHOW,Wahl Street,['US'],2021,TV-MA,2.0,['documentation'],7.4
+395,SHOW,Two Weeks to Live,['GB'],2020,TV-MA,1.0,"['comedy', 'crime', 'drama', 'action']",7.395
+28,SHOW,Aqua Teen Hunger Force,['US'],2000,TV-MA,11.0,"['animation', 'comedy']",7.387
+191,SHOW,Loiter Squad,['US'],2012,TV-MA,3.0,['comedy'],7.385
+71,SHOW,Top Gear,['GB'],2002,TV-PG,33.0,"['comedy', 'reality', 'european', 'music']",7.38
+348,SHOW,The Outsider,['US'],2020,TV-MA,1.0,"['crime', 'drama', 'thriller', 'fantasy', 'documentation', 'action']",7.378
+172,SHOW,Veep,['US'],2012,TV-MA,7.0,['comedy'],7.373
+3,SHOW,The Flintstones,['US'],1960,TV-G,6.0,"['comedy', 'animation', 'family']",7.371
+471,SHOW,Somebody Somewhere,['US'],2022,TV-MA,2.0,"['comedy', 'drama']",7.364
+340,SHOW,The Flight Attendant,['US'],2020,TV-MA,2.0,"['drama', 'thriller', 'comedy']",7.36
+79,SHOW,Eastbound & Down,['US'],2009,TV-MA,4.0,"['comedy', 'drama', 'sport']",7.342
+112,SHOW,Bored to Death,['US'],2009,TV-MA,3.0,"['crime', 'comedy', 'drama', 'thriller']",7.341
+152,SHOW,How to Make It in America,['US'],2010,TV-MA,2.0,"['drama', 'comedy']",7.337
+557,SHOW,The Lady and the Dale,['US'],2021,TV-14,1.0,"['crime', 'documentation']",7.333
+194,SHOW,"The Heart, She Holler",['US'],2011,TV-MA,3.0,"['comedy', 'horror']",7.333
+114,SHOW,Entourage,['US'],2004,TV-MA,8.0,"['drama', 'comedy']",7.329
+397,SHOW,White House Farm,['GB'],2020,TV-MA,1.0,"['drama', 'crime', 'history', 'thriller']",7.329
+406,SHOW,La Jauría,['CL'],2020,TV-MA,2.0,"['drama', 'crime', 'thriller']",7.327
+499,SHOW,George Carlin's American Dream,['US'],2022,TV-MA,1.0,"['documentation', 'comedy']",7.308
+546,SHOW,Q: Into the Storm,['US'],2021,TV-MA,1.0,['documentation'],7.304
+5,SHOW,The Jetsons,['US'],1962,TV-G,3.0,"['animation', 'comedy', 'scifi', 'family']",7.3
+63,SHOW,In the House,['US'],1995,TV-14,5.0,"['reality', 'comedy', 'documentation']",7.3
+423,SHOW,The Trial of Christine Keeler,['GB'],2019,Unknown,1.0,"['drama', 'history', 'war']",7.3
+159,SHOW,"Lucy, the Daughter of the Devil",['US'],2005,TV-MA,1.0,"['comedy', 'animation', 'horror']",7.3
+428,SHOW,Patria,['ES'],2020,TV-14,1.0,"['war', 'drama']",7.3
+319,SHOW,Being Serena,['US'],2018,TV-PG,1.0,"['documentation', 'sport']",7.3
+185,SHOW,Major Crimes,['US'],2012,TV-14,6.0,"['drama', 'action', 'crime']",7.3
+216,SHOW,Looking,['US'],2014,TV-MA,2.0,"['comedy', 'drama', 'romance']",7.3
+207,SHOW,Anthony Bourdain: Parts Unknown,['US'],2013,TV-PG,12.0,['documentation'],7.3
+101,SHOW,Torchwood,['GB'],2006,TV-MA,4.0,"['action', 'drama', 'scifi', 'fantasy', 'horror', 'thriller', 'european']",7.292
+380,SHOW,Betty,['US'],2020,TV-MA,2.0,"['drama', 'comedy']",7.273
+342,SHOW,Lovecraft Country,['US'],2020,TV-MA,1.0,"['drama', 'scifi', 'thriller', 'fantasy', 'horror']",7.266
+175,SHOW,Enlightened,['US'],2011,TV-MA,2.0,"['drama', 'comedy', 'romance']",7.238
+50,SHOW,The Wayans Bros.,['US'],1995,TV-14,5.0,['comedy'],7.232
+552,SHOW,We Baby Bears,['US'],2022,TV-Y7,2.0,['animation'],7.23
+549,SHOW,Undercurrent: The Disappearance of Kim Wall,['US'],2022,TV-MA,1.0,"['documentation', 'crime']",7.222
+311,SHOW,Mosaic,['US'],2018,TV-MA,1.0,"['drama', 'thriller', 'crime', 'documentation']",7.205
+473,SHOW,The Tourist,['GB'],2022,TV-MA,1.0,"['thriller', 'drama']",7.2
+367,SHOW,Tuca & Bertie,['US'],2019,TV-MA,3.0,"['comedy', 'animation']",7.2
+222,SHOW,Your Pretty Face Is Going to Hell,['US'],2013,TV-MA,4.0,"['comedy', 'fantasy', 'animation']",7.2
+502,SHOW,The Murders at Starved Rock,['US'],2021,TV-14,1.0,"['crime', 'documentation']",7.2
+351,SHOW,The Vow,['US'],2020,TV-MA,2.0,"['documentation', 'crime']",7.2
+10,SHOW,Aquaman,['US'],1967,TV-Y,1.0,"['animation', 'action', 'family', 'fantasy']",7.2
+286,SHOW,Wellington Paranormal,['NZ'],2018,TV-14,4.0,"['comedy', 'crime', 'fantasy', 'horror']",7.2
+331,SHOW,Perry Mason,['US'],2020,TV-MA,2.0,"['drama', 'history', 'crime']",7.2
+45,SHOW,Home Movies,['US'],1999,TV-MA,4.0,"['comedy', 'drama', 'animation', 'family']",7.2
+182,SHOW,Mildred Pierce,['US'],2011,TV-MA,1.0,['drama'],7.199
+405,SHOW,La Unidad,['ES'],2020,Unknown,3.0,"['crime', 'drama', 'thriller', 'action']",7.188
+401,SHOW,30 Coins,['ES'],2020,TV-MA,2.0,"['thriller', 'drama', 'fantasy', 'horror', 'scifi']",7.187
+149,SHOW,The Sarah Jane Adventures,['GB'],2007,TV-PG,5.0,"['scifi', 'action', 'drama', 'family', 'fantasy']",7.187
+474,SHOW,Scenes from a Marriage,['US'],2021,TV-MA,1.0,['drama'],7.168
+338,SHOW,The Righteous Gemstones,['US'],2019,TV-MA,3.0,"['comedy', 'drama']",7.147
+462,SHOW,Walker,['US'],2021,TV-14,3.0,"['drama', 'action', 'crime', 'western']",7.121
+389,SHOW,McMillions,['US'],2020,TV-14,1.0,"['history', 'documentation', 'crime']",7.115
+305,SHOW,Miss Sherlock,['JP'],2018,TV-14,1.0,"['drama', 'crime']",7.109
+257,SHOW,Show Me a Hero,['US'],2015,TV-MA,1.0,"['crime', 'war', 'history', 'drama']",7.108
+370,SHOW,Batwoman,['US'],2019,TV-14,3.0,"['scifi', 'action', 'crime', 'drama']",7.104
+241,SHOW,The Great Pottery Throw Down,['GB'],2015,TV-14,6.0,['reality'],7.1
+7,SHOW,The Yogi Bear Show,['US'],1961,TV-G,4.0,"['comedy', 'animation', 'family']",7.1
+581,SHOW,Queer You Are,['ES'],2021,Unknown,1.0,"['comedy', 'drama']",7.1
+183,SHOW,Eagleheart,['US'],2011,TV-MA,3.0,"['action', 'comedy']",7.1
+500,SHOW,Rap Sh!t,['US'],2022,TV-MA,2.0,"['comedy', 'music']",7.1
+526,SHOW,Housing Complex C,['US'],2022,TV-MA,1.0,"['animation', 'thriller', 'horror']",7.1
+296,SHOW,The Bronze Garden,['AR'],2017,TV-MA,3.0,"['drama', 'crime', 'horror', 'thriller']",7.1
+375,SHOW,The Case Against Adnan Syed,['US'],2019,TV-14,1.0,"['crime', 'documentation']",7.1
+265,SHOW,New Looney Tunes,['US'],2015,TV-Y7,3.0,"['comedy', 'family', 'animation']",7.1
+287,SHOW,I'm Sorry,['US'],2017,TV-MA,3.0,['comedy'],7.1
+385,SHOW,The Investigation,['DK'],2020,TV-14,1.0,"['drama', 'thriller', 'crime']",7.1
+46,SHOW,Lois & Clark: The New Adventures of Superman,['US'],1993,TV-PG,4.0,"['drama', 'scifi', 'action', 'comedy', 'romance']",7.098
+157,SHOW,Epitaphs,['AR'],2004,TV-MA,2.0,"['drama', 'crime', 'horror', 'thriller']",7.089
+174,SHOW,Falling Skies,['US'],2011,TV-14,5.0,"['action', 'drama', 'scifi', 'thriller']",7.074
+588,SHOW,Tom and Jerry in New York,['US'],2021,TV-PG,2.0,"['comedy', 'family', 'action', 'animation']",7.068
+563,SHOW,Jellystone,['US'],2021,TV-Y7,2.0,"['comedy', 'family', 'animation']",7.058
+390,SHOW,Tiger,['US'],2020,TV-MA,1.0,"['documentation', 'sport']",7.056
+349,SHOW,Industry,['US'],2020,TV-MA,3.0,"['drama', 'comedy', 'reality']",7.036
+246,SHOW,Vice Principals,['US'],2016,TV-MA,2.0,['comedy'],7.028
+449,SHOW,Station Eleven,['US'],2021,TV-MA,1.0,"['drama', 'fantasy', 'scifi', 'thriller']",7.027
+117,SHOW,Big Love,['US'],2006,TV-MA,5.0,['drama'],7.025
+337,SHOW,Miracle Workers,['US'],2019,TV-14,4.0,"['comedy', 'drama', 'fantasy', 'romance']",7.02
+387,SHOW,Catherine the Great,['GB'],2019,TV-MA,1.0,"['war', 'drama', 'history']",7.012
+4,SHOW,Sesame Street,['US'],1969,TV-Y,53.0,"['comedy', 'animation', 'family', 'fantasy', 'music']",7.008
+593,SHOW,Love Spells,['MX'],2021,TV-MA,1.0,"['drama', 'romance', 'comedy']",7.0
+580,SHOW,Para - We Are King,['DE'],2021,Unknown,1.0,['drama'],7.0
+507,SHOW,Rich & Shameless,['US'],2022,TV-14,1.0,['documentation'],7.0
+242,SHOW,Good Behavior,['US'],2016,TV-MA,2.0,"['drama', 'thriller', 'crime']",7.0
+161,SHOW,On the Record with Bob Costas,['US'],2001,TV-14,5.0,['sport'],7.0
+64,SHOW,The Parent 'Hood,['US'],1995,TV-PG,5.0,['comedy'],7.0
+444,SHOW,Tropical Cop Tales,['US'],2019,TV-MA,1.0,['comedy'],7.0
+226,SHOW,Grace,['SG'],2014,Unknown,2.0,"['thriller', 'drama', 'horror']",7.0
+297,SHOW,Folklore,['SG'],2018,Unknown,2.0,"['thriller', 'drama', 'horror']",7.0
+597,SHOW,Who's By Your Side,['TW'],2021,Unknown,1.0,['drama'],7.0
+539,SHOW,Obama: In Pursuit of a More Perfect Union,['US'],2021,TV-14,1.0,['documentation'],7.0
+391,SHOW,David Makes Man,['US'],2019,Unknown,2.0,['drama'],7.0
+554,SHOW,Ten Year Old Tom,['US'],2021,TV-14,1.0,"['animation', 'comedy']",7.0
+544,SHOW,The Great Soul Food Cook-Off,[],2021,Unknown,1.0,[],7.0
+461,SHOW,The Staircase,['US'],2022,TV-MA,1.0,"['crime', 'thriller', 'drama']",7.0
+102,SHOW,Hard Knocks,['US'],2001,TV-MA,18.0,"['documentation', 'reality', 'sport']",7.0
+8,SHOW,Wonder Woman,['US'],1975,TV-PG,3.0,"['scifi', 'action', 'drama', 'fantasy', 'family']",7.0
+13,SHOW,The Smurfs,['US'],1981,TV-Y,9.0,"['scifi', 'animation', 'comedy', 'family', 'fantasy']",6.999
+386,SHOW,Jett,['US'],2019,TV-MA,1.0,"['drama', 'thriller', 'action', 'crime']",6.993
+173,SHOW,Happy Endings,['US'],2011,TV-14,3.0,"['comedy', 'romance']",6.992
+244,SHOW,Search Party,['US'],2016,TV-MA,5.0,"['comedy', 'crime', 'drama', 'thriller', 'romance']",6.959
+508,SHOW,Visitors,['FR'],2022,TV-MA,1.0,"['scifi', 'comedy']",6.957
+47,SHOW,Tenacious D,['US'],1997,TV-14,1.0,"['comedy', 'music']",6.947
+37,SHOW,Mortal Kombat: Conquest,['US'],1998,TV-PG,1.0,"['scifi', 'action', 'fantasy']",6.939
+553,SHOW,The Invisible Pilot,['US'],2022,TV-MA,1.0,"['documentation', 'crime', 'history']",6.938
+256,SHOW,High Maintenance,['US'],2016,TV-MA,4.0,"['comedy', 'documentation', 'drama']",6.924
+421,SHOW,Agents of Chaos,['US'],2020,TV-MA,1.0,"['documentation', 'history']",6.917
+501,SHOW,The Prince,['US'],2021,TV-MA,1.0,"['comedy', 'animation']",6.917
+479,SHOW,Irma Vep,['US'],2022,TV-MA,1.0,"['drama', 'comedy']",6.906
+147,SHOW,The No. 1 Ladies' Detective Agency,['GB'],2009,Unknown,1.0,"['drama', 'crime', 'comedy', 'family']",6.905
+531,SHOW,The Girl Before,['GB'],2021,TV-MA,1.0,"['romance', 'thriller', 'drama']",6.9
+267,SHOW,El Hipnotizador,"['AR', 'BR', 'UY']",2015,TV-MA,2.0,"['scifi', 'drama', 'fantasy', 'documentation']",6.9
+278,SHOW,C.B. Strike,['GB'],2017,TV-MA,5.0,"['drama', 'crime', 'thriller']",6.9
+135,SHOW,Squidbillies,['US'],2004,TV-14,13.0,"['comedy', 'war', 'scifi', 'drama', 'action', 'animation', 'fantasy', 'thriller']",6.9
+261,SHOW,Togetherness,['US'],2015,TV-MA,2.0,"['comedy', 'romance', 'drama']",6.9
+144,SHOW,Tom Goes to the Mayor,['US'],2004,TV-PG,2.0,"['comedy', 'animation']",6.9
+184,SHOW,Mortal Kombat: Legacy,"['CA', 'US']",2011,TV-MA,2.0,"['action', 'scifi', 'crime', 'fantasy', 'thriller']",6.9
+407,SHOW,Perfect Life,['ES'],2019,TV-MA,2.0,"['drama', 'comedy']",6.9
+49,SHOW,Arliss,['US'],1996,TV-MA,7.0,"['comedy', 'sport']",6.9
+498,SHOW,Catch and Kill: The Podcast Tapes,['US'],2021,TV-MA,1.0,['documentation'],6.9
+374,SHOW,"I Love You, Now Die: The Commonwealth v. Michelle Carter",['US'],2019,TV-MA,1.0,"['documentation', 'crime']",6.879
+369,SHOW,The Plot Against America,['US'],2020,TV-MA,1.0,"['scifi', 'drama', 'thriller']",6.845
+186,SHOW,Parade's End,['GB'],2012,TV-MA,1.0,"['drama', 'war', 'history', 'action', 'romance', 'european']",6.837
+366,SHOW,Los Espookys,['US'],2019,TV-MA,2.0,"['comedy', 'fantasy', 'horror']",6.818
+480,SHOW,The Last Movie Stars,['US'],2022,TV-MA,1.0,['documentation'],6.8
+354,SHOW,I Hate Suzie,['GB'],2020,TV-MA,2.0,"['comedy', 'drama']",6.8
+486,SHOW,Landscapers,['US'],2021,TV-MA,1.0,"['crime', 'drama', 'comedy']",6.8
+304,SHOW,Gunpowder,['GB'],2017,TV-MA,1.0,"['war', 'drama', 'history', 'european']",6.8
+148,SHOW,Tell Me You Love Me,['US'],2007,TV-MA,1.0,"['drama', 'comedy', 'family', 'romance']",6.8
+514,SHOW,Starstruck,['GB'],2021,TV-MA,2.0,"['comedy', 'reality']",6.8
+218,SHOW,Teen Titans Go!,['US'],2013,TV-PG,8.0,"['scifi', 'comedy', 'action', 'family', 'crime', 'animation', 'fantasy']",6.8
+232,SHOW,Hello Ladies,['US'],2013,TV-MA,1.0,['comedy'],6.8
+17,SHOW,Tanner '88,['US'],1988,Unknown,2.0,"['reality', 'war', 'comedy', 'drama']",6.8
+408,SHOW,Heaven's Gate: The Cult of Cults,['US'],2020,TV-MA,1.0,"['documentation', 'crime']",6.792
+289,SHOW,Stath Lets Flats,['GB'],2018,TV-MA,3.0,['comedy'],6.789
+504,SHOW,Trixie Motel,['US'],2022,TV-14,1.0,['reality'],6.75
+14,SHOW,Family Matters,['US'],1989,TV-G,9.0,"['comedy', 'family', 'scifi', 'drama']",6.746
+249,SHOW,Ballers,['US'],2015,TV-MA,5.0,"['drama', 'comedy', 'sport']",6.712
+104,SHOW,Mike & Molly,['US'],2010,TV-14,6.0,"['comedy', 'romance']",6.704
+62,SHOW,The Jamie Foxx Show,['US'],1996,TV-14,5.0,['comedy'],6.7
+178,SHOW,Billy on the Street,['US'],2011,TV-14,6.0,"['comedy', 'reality']",6.7
+16,SHOW,A Different World,['US'],1987,TV-14,6.0,['comedy'],6.7
+229,SHOW,Getting On,['US'],2013,TV-MA,3.0,['comedy'],6.68
+595,SHOW,Isabel,['CL'],2021,TV-MA,1.0,['drama'],6.679
+522,SHOW,Birdgirl,['US'],2021,TV-MA,2.0,"['fantasy', 'animation', 'comedy']",6.667
+578,SHOW,This Is Luna,['BR'],2022,TV-MA,1.0,"['drama', 'comedy', 'romance']",6.667
+192,SHOW,Luck,['US'],2012,TV-MA,2.0,"['drama', 'sport']",6.656
+537,SHOW,100 Foot Wave,['US'],2021,TV-14,2.0,"['sport', 'documentation']",6.6
+511,SHOW,Mind Over Murder,['US'],2022,TV-MA,1.0,"['documentation', 'crime']",6.6
+517,SHOW,DMZ,['US'],2022,TV-MA,1.0,"['drama', 'scifi', 'thriller', 'war', 'action']",6.6
+364,SHOW,The Third Day,['US'],2020,TV-MA,1.0,"['scifi', 'drama', 'horror', 'thriller']",6.6
+136,SHOW,If God Is Willing and da Creek Don't Rise,['US'],2010,TV-MA,1.0,['documentation'],6.6
+341,SHOW,Avenue 5,['US'],2020,TV-MA,2.0,"['comedy', 'scifi']",6.594
+360,SHOW,We're Here,['US'],2020,TV-MA,3.0,['reality'],6.548
+234,SHOW,Family Tree,"['US', 'GB']",2013,TV-MA,1.0,['comedy'],6.536
+422,SHOW,Adult Material,['GB'],2020,TV-MA,1.0,['drama'],6.526
+198,SHOW,Garfunkel and Oates,['US'],2012,TV-MA,1.0,['comedy'],6.5
+584,SHOW,Dolores: The Truth About the Wanninkhof Case,['ES'],2021,TV-14,1.0,"['documentation', 'crime']",6.5
+158,SHOW,Delocated,['US'],2008,TV-MA,3.0,['comedy'],6.5
+515,SHOW,Small Town News: KPVM Pahrump,['US'],2021,TV-14,1.0,['documentation'],6.5
+325,SHOW,Mostly 4 Millennials,['US'],2018,TV-MA,1.0,['comedy'],6.5
+419,SHOW,Expecting Amy,['US'],2020,TV-MA,1.0,"['documentation', 'comedy']",6.5
+197,SHOW,"China, IL",['US'],2011,TV-14,3.0,"['animation', 'comedy']",6.5
+487,SHOW,Phoenix Rising,['US'],2022,TV-MA,1.0,"['documentation', 'crime']",6.5
+266,SHOW,The Casual Vacancy,['GB'],2015,TV-14,1.0,['drama'],6.5
+543,SHOW,Allen v. Farrow,['US'],2021,TV-MA,1.0,"['documentation', 'crime']",6.48
+128,SHOW,John from Cincinnati,['US'],2007,TV-MA,1.0,"['scifi', 'drama', 'fantasy']",6.45
+371,SHOW,YOLO,['US'],2020,TV-14,2.0,"['comedy', 'fantasy', 'animation']",6.444
+547,SHOW,Saving the King,['ES'],2022,Unknown,1.0,['documentation'],6.4
+118,SHOW,Wipeout,['US'],2008,TV-14,7.0,"['reality', 'comedy', 'family']",6.4
+251,SHOW,Divorce,['US'],2016,TV-MA,3.0,"['comedy', 'drama']",6.4
+478,SHOW,Edge of the Earth,['US'],2022,TV-MA,1.0,"['documentation', 'sport', 'action']",6.4
+291,SHOW,Random Acts of Flyness,['US'],2018,TV-MA,2.0,"['comedy', 'scifi', 'drama', 'fantasy']",6.4
+494,SHOW,Naomi,['US'],2022,TV-PG,1.0,"['scifi', 'action', 'drama', 'animation']",6.4
+425,SHOW,Laetitia,['FR'],2020,Unknown,1.0,"['drama', 'thriller', 'crime']",6.35
+491,SHOW,The Baby,['US'],2022,TV-MA,1.0,"['comedy', 'horror']",6.33
+145,SHOW,Hung,['US'],2009,Unknown,3.0,"['comedy', 'drama']",6.3
+497,SHOW,María Marta: The Country Club Crime,['AR'],2022,Unknown,1.0,"['drama', 'thriller', 'crime']",6.3
+454,SHOW,Call Me Kat,"['US', 'GB']",2021,TV-14,3.0,['comedy'],6.3
+431,SHOW,A World of Calm,['US'],2020,TV-G,1.0,['documentation'],6.3
+193,SHOW,Profugos,['CL'],2011,TV-MA,2.0,"['action', 'crime', 'drama', 'thriller']",6.3
+570,SHOW,Paradise,['ES'],2021,TV-MA,2.0,"['drama', 'scifi', 'action']",6.3
+516,SHOW,The Thaw,['PL'],2022,TV-14,1.0,"['drama', 'crime']",6.278
+258,SHOW,Ben 10,['US'],2016,TV-Y7,5.0,"['comedy', 'action', 'scifi', 'animation', 'family', 'documentation']",6.259
+48,SHOW,The Sylvester & Tweety Mysteries,['US'],1995,TV-Y7,5.0,"['comedy', 'crime', 'family', 'animation']",6.253
+260,SHOW,Animals.,['US'],2016,TV-MA,3.0,"['animation', 'comedy']",6.235
+559,SHOW,Gaming Wall St,['US'],2022,TV-MA,1.0,['documentation'],6.222
+181,SHOW,Girls,['US'],2012,TV-MA,6.0,"['drama', 'comedy']",6.2
+489,SHOW,Sort Of,['CA'],2021,TV-MA,3.0,"['comedy', 'drama']",6.2
+259,SHOW,Full Frontal with Samantha Bee,['US'],2016,TV-MA,8.0,['comedy'],6.2
+309,SHOW,15: A Quinceañera Story,['US'],2017,TV-PG,1.0,['documentation'],6.2
+542,SHOW,"What Happened, Brittany Murphy?",['US'],2021,TV-MA,1.0,"['documentation', 'crime']",6.158
+121,SHOW,Five Days,['GB'],2007,TV-MA,2.0,"['drama', 'crime', 'thriller']",6.143
+368,SHOW,Leaving Neverland,['US'],2019,TV-MA,1.0,['documentation'],6.137
+506,SHOW,García!,['ES'],2022,TV-MA,1.0,"['scifi', 'drama', 'thriller', 'action']",6.1
+138,SHOW,Project Greenlight,['US'],2001,TV-MA,4.0,"['documentation', 'reality']",6.1
+411,SHOW,Vote for Juan,['ES'],2019,TV-14,3.0,['comedy'],6.067
+315,SHOW,The Teenage Psychic,['TW'],2017,Unknown,2.0,"['drama', 'romance', 'comedy', 'fantasy']",6.05
+86,SHOW,Real Time with Bill Maher,['US'],2003,TV-MA,21.0,['comedy'],6.015
+551,SHOW,Flordelis: A Family Crime,['BR'],2022,Unknown,1.0,['documentation'],6.0
+550,SHOW,"Bilardo, the Soccer Doctor",['AR'],2022,TV-MA,1.0,['documentation'],6.0
+264,SHOW,Halfworlds,['ID'],2015,Unknown,3.0,"['thriller', 'fantasy', 'horror']",6.0
+436,SHOW,Adventure of the Ring,['TW'],2020,TV-14,1.0,"['drama', 'comedy', 'romance']",6.0
+268,SHOW,Mamon,['CZ'],2015,TV-MA,1.0,"['crime', 'thriller', 'european']",6.0
+61,SHOW,Hangin' with Mr. Cooper,['US'],1992,TV-PG,5.0,"['comedy', 'family', 'sport']",6.0
+237,SHOW,Saving My Tomorrow,['US'],2014,TV-G,1.0,"['documentation', 'family']",6.0
+317,SHOW,Ballmastrz: 9009,['US'],2018,TV-14,2.0,"['animation', 'action', 'comedy', 'scifi', 'sport']",6.0
+393,SHOW,Dream Raider,['TW'],2020,TV-MA,1.0,"['thriller', 'crime', 'scifi']",6.0
+200,SHOW,The Weight Of The Nation For Kids,['US'],2012,Unknown,1.0,['documentation'],6.0
+534,SHOW,PAUSE with Sam Jay,['US'],2021,TV-MA,2.0,[],6.0
+488,SHOW,Unveiled: Surviving La Luz del Mundo,['US'],2022,TV-MA,1.0,"['documentation', 'crime']",6.0
+503,SHOW,I Don't Like Driving,['ES'],2022,Unknown,1.0,['comedy'],6.0
+65,SHOW,Happily Ever After: Fairy Tales for Every Child,['US'],1995,TV-Y,3.0,"['animation', 'drama', 'horror', 'fantasy', 'thriller', 'comedy', 'family']",6.0
+433,SHOW,El Pionero,['ES'],2019,Unknown,1.0,['documentation'],6.0
+300,SHOW,2 Dope Queens,['US'],2018,TV-MA,2.0,['comedy'],5.9
+589,SHOW,Bugs Bunny Builders,['US'],2022,TV-Y,1.0,"['animation', 'comedy', 'family']",5.9
+302,SHOW,Room 104,['US'],2017,TV-MA,4.0,"['thriller', 'drama', 'fantasy', 'horror', 'scifi', 'comedy']",5.882
+561,SHOW,Queen Stars Brazil,['BR'],2022,TV-14,1.0,['reality'],5.8
+293,SHOW,4 Blocks,['DE'],2017,TV-PG,3.0,"['drama', 'crime', 'european']",5.748
+295,SHOW,Grisse,['ID'],2018,Unknown,1.0,"['action', 'drama']",5.6
+310,SHOW,Apple & Onion,['US'],2018,TV-Y7,3.0,"['animation', 'comedy', 'family', 'music']",5.6
+545,SHOW,The Hype,['US'],2021,Unknown,2.0,['reality'],5.5
+585,SHOW,Sweet Life: Los Angeles,['US'],2021,Unknown,2.0,['reality'],5.5
+566,SHOW,Black and Missing,['US'],2021,TV-MA,1.0,"['documentation', 'crime']",5.5
+529,SHOW,The Anarchists,['US'],2022,TV-MA,1.0,['documentation'],5.5
+435,SHOW,Other Parents,['DE'],2019,Unknown,2.0,['comedy'],5.4
+512,SHOW,One Perfect Shot,['US'],2022,TV-MA,1.0,['documentation'],5.4
+476,SHOW,Oh Hell,['DE'],2022,TV-MA,1.0,"['drama', 'comedy']",5.4
+228,SHOW,Black Jesus,['US'],2014,TV-MA,3.0,['comedy'],5.4
+582,SHOW,How to Screw It All Up,['ES'],2022,TV-MA,1.0,['drama'],5.3
+429,SHOW,Possessions,"['FR', 'IL']",2020,Unknown,1.0,['drama'],5.25
+274,SHOW,Rachel Dratch's Late Night Snack,['US'],2016,Unknown,2.0,['comedy'],5.0
+270,SHOW,Hack My Life,['US'],2015,TV-14,6.0,"['documentation', 'reality', 'comedy']",5.0
+607,SHOW,Irina Rimes: On My Way,['RO'],2022,TV-MA,1.0,['documentation'],5.0
+450,SHOW,Low Country: The Murdaugh Dynasty,['US'],2022,TV-MA,1.0,"['documentation', 'crime']",5.0
+321,SHOW,Total DramaRama,['CA'],2018,TV-Y7,3.0,"['animation', 'comedy', 'family']",5.0
+535,SHOW,Level Playing Field,['US'],2021,TV-14,1.0,"['documentation', 'sport']",5.0
+443,SHOW,Food Lore,['SG'],2019,Unknown,1.0,[],5.0
+263,SHOW,The Powerpuff Girls,['US'],2016,TV-Y7,3.0,"['action', 'family', 'animation', 'fantasy', 'scifi', 'thriller', 'comedy']",4.865
+558,SHOW,Menudo: Forever Young,['US'],2022,TV-MA,1.0,"['documentation', 'music']",4.7
+236,SHOW,Head Over Heels,['CZ'],2014,Unknown,2.0,"['comedy', 'romance', 'european']",4.5
+532,SHOW,Not So Pretty,['US'],2022,TV-14,1.0,['documentation'],4.5
+481,SHOW,The Big Brunch,['US'],2022,TV-MA,1.0,['reality'],4.5
+318,SHOW,The Jellies,['US'],2017,TV-MA,2.0,"['animation', 'comedy']",4.5
+536,SHOW,Game Theory with Bomani Jones,['US'],2022,TV-MA,2.0,"['sport', 'comedy']",4.3
+495,SHOW,Tom Swift,['US'],2022,TV-14,1.0,['drama'],4.2
+150,SHOW,Funny or Die Presents,['US'],2010,TV-MA,3.0,['comedy'],4.0
+245,SHOW,Sex Diaries,['US'],2015,Unknown,1.0,"['documentation', 'reality']",4.0
+602,SHOW,El gran sarao,['ES'],2022,Unknown,1.0,['reality'],4.0
+560,SHOW,Chillin Island,['US'],2021,TV-MA,1.0,"['comedy', 'reality']",4.0
+57,SHOW,The Chris Rock Show,['US'],1997,TV-MA,4.0,"['comedy', 'music']",4.0
+316,SHOW,Maine Cabin Masters,['US'],2017,TV-PG,8.0,['reality'],3.7
+410,SHOW,Singletown,['GB'],2019,Unknown,1.0,"['reality', 'romance']",3.5
+618,SHOW,Velma,['US'],2023,TV-MA,1.0,"['comedy', 'crime', 'animation']",3.399
+523,SHOW,Hostages,['US'],2022,TV-MA,1.0,"['documentation', 'history']",3.0
+56,SHOW,HBO Comedy Half Hour,['US'],1995,Unknown,5.0,"['comedy', 'documentation']",3.0
+530,SHOW,Fast Foodies,['US'],2021,TV-14,2.0,['reality'],3.0
+164,SHOW,Dane Cook's Tourgasm,['US'],2006,TV-MA,1.0,"['comedy', 'documentation']",3.0
+555,SHOW,Who's Talking to Chris Wallace?,['US'],2022,TV-MA,1.0,[],3.0
+572,SHOW,Teenage Euthanasia,['US'],2021,TV-14,2.0,"['animation', 'comedy', 'fantasy']",2.5
+221,SHOW,Blippi,['US'],2014,TV-Y7,3.0,['family'],2.0
+492,SHOW,Branson,['US'],2022,TV-14,1.0,['documentation'],2.0
+562,SHOW,Take Out with Lisa Ling,['US'],2022,TV-PG,1.0,['documentation'],2.0
+606,SHOW,Lellobee City Farm,['US'],2022,TV-Y,1.0,['animation'],2.0
+541,SHOW,Brené Brown: Atlas of the Heart,['US'],2022,Unknown,1.0,['documentation'],2.0
+568,SHOW,Mecha Builders,['US'],2022,TV-Y,1.0,['animation'],2.0
+415,SHOW,12 Dates of Christmas,['US'],2020,TV-MA,2.0,['reality'],2.0
+594,SHOW,Blippi Wonders,['US'],2021,TV-Y,1.0,"['animation', 'family']",1.583
+598,SHOW,Inn the Works,['US'],2021,Unknown,1.0,['reality'],1.0
+469,SHOW,Family Dinner,['US'],2022,TV-G,3.0,"['reality', 'comedy', 'drama']",1.0
+586,SHOW,Through Our Eyes,['US'],2021,TV-PG,1.0,['documentation'],1.0
